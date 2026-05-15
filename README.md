@@ -1,24 +1,45 @@
-# Hi 👋, I'm href
+<h1 align="left">Hi, I'm href 👋</h1>
 
-### A passionate frontend developer
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egorb2302" alt="egorb2302" /></a> </p>
+<h3 align="left">A passionate Fullstack-developer</h3>
 
-- 🌱 I'm currently learning **TypeScript**
+###
 
-- 📫 How to reach me **berendeevegor@gmail.com**
+<h2 align="left">About me</h2>
 
-- 👨‍💻 All of my projects are available at **[https://github.com/egorb2302?tab=repositories](https://github.com/egorb2302?tab=repositories)**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/egorb2302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="egorb2302" height="30" width="40" /></a>
-</p>
+<p align="left">✨ Creating bugs since October of 2025<br>📚 I'm currently learning React<br>🎯 Goals: Learn Frontend & Backend</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egorb2302&show_icons=true&locale=en&layout=compact" alt="egorb2302" /></p>
+<h2 align="left">I code with</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egorb2302&show_icons=true&locale=en" alt="egorb2302" /></p>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/egorb2302/egorb2302/languages-output/languages.svg" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
+
+###
