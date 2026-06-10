@@ -29,9 +29,9 @@
   <img width="12" />
   <img src="https://cdn.svglogos.dev/logos/nodejs-icon.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://cdn.svglogos.dev/logos/tailwindcss-icon.svg" height="60" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img src="https://cdn.svglogos.dev/logos/figma.svg" height="60" alt="figma logo"  />
 </div>
 
 ###
