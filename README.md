@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.svglogos.dev/logos/nodejs-icon.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.svglogos.dev/logos/tailwindcss-icon.svg" height="60" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="60" alt="Tailwind CSS">
   <img width="12" />
   <img src="https://cdn.svglogos.dev/logos/figma.svg" height="60" alt="figma logo"  />
 </div>
