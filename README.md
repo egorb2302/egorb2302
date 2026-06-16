@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since October of 2025<br>📚 I'm currently learning React<br>🎯 Goals: Learn Frontend & Backend</p>
+<p align="left">✨ Creating bugs since October of 2025<br>📚 I'm currently learning Backend<br>🎯 Goals: Earn the first offer</p>
 
 ###
 
