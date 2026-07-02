@@ -34,6 +34,8 @@
   <img src="https://cdn.svglogos.dev/logos/nodejs-icon.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="60" alt="psql logo"  />
+  <img width="12" />
+  <img src="https://cdn.svglogos.dev/logos/docker-icon.svg" height="60" alt="docker logo"  />
 </div>
 
 ###
