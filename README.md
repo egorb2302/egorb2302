@@ -2,19 +2,11 @@
 
 ###
 
-<h3 align="left">A passionate Fullstack-developer</h3>
+<h3 align="left">Fullstack \ Web3 developer</h3>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since October of 2025<br>📚 I'm currently learning Backend<br>🎯 Goals: Earn the first offer</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">Actual techs:</h2>
 
 ###
 
