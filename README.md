@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Fullstack \ Web3 developer</h3>
+<h2 align="left">Fullstack \ Web3 developer</h2>
 
 ###
 
