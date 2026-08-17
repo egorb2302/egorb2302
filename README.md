@@ -1,24 +1,70 @@
-# Hi 👋, I'm href
+<div align="center">
 
-### A passionate frontend developer
+<h1><samp>href</samp></h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egorb2302" alt="egorb2302" /></a> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&height=46&lines=Fullstack+and+Web3+developer;I+ship+the+app%2C+the+API+and+the+contract;TypeScript+%2F+React+%2F+Node+%2F+Postgres;Solidity+%2F+viem+%2F+wagmi+%2F+Foundry" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=620&height=46&lines=Fullstack+and+Web3+developer;I+ship+the+app%2C+the+API+and+the+contract;TypeScript+%2F+React+%2F+Node+%2F+Postgres;Solidity+%2F+viem+%2F+wagmi+%2F+Foundry" alt="Fullstack and Web3 developer" />
+</picture>
 
-- 🌱 I'm currently learning **TypeScript**
+<a href="https://t.me/trmvoid"><img src="https://img.shields.io/badge/telegram-000000?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:berendeevegor@gmail.com"><img src="https://img.shields.io/badge/email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
-- 📫 How to reach me **berendeevegor@gmail.com**
+</div>
 
-- 👨‍💻 All of my projects are available at **[https://github.com/egorb2302?tab=repositories](https://github.com/egorb2302?tab=repositories)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/egorb2302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="egorb2302" height="30" width="40" /></a>
-</p>
+### `<a href="#building">`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+- Fullstack apps end to end: React on top, Node API in the middle, Postgres and Docker under it
+- Small tools that make the boring part of a project disappear
+- Faster app building with using AI
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egorb2302&show_icons=true&locale=en&layout=compact" alt="egorb2302" /></p>
+### `<a href="#stack">`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egorb2302&show_icons=true&locale=en" alt="egorb2302" /></p>
+<table>
+  <tr>
+    <td><samp>ui</samp></td>
+    <td width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="36" alt="JavaScript" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><samp>api</samp></td>
+    <td width="200">
+      <img src="https://cdn.svglogos.dev/logos/nodejs-icon.svg" height="36" alt="Node.js" />
+      <img width="8" />
+      <img src="https://cdn.svglogos.dev/logos/python.svg" height="36" alt="Python" />
+    </td>
+  </tr>
+  <tr>
+    <td><samp>data</samp></td>
+    <td width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="36" alt="PostgreSQL" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis" />
+    </td>
+  </tr>
+  <tr>
+    <td><samp>ship</samp></td>
+    <td width="200">
+      <img src="https://cdn.svglogos.dev/logos/docker-icon.svg" height="36" alt="Docker" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="36" alt="Jest" />
+    </td>
+  </tr>
+</table>
 
+---
+
+<div align="center">
+<samp>&lt;/a&gt; &lt;!-- thanks for attention --&gt;</samp>
+</div>
