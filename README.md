@@ -2,14 +2,7 @@
 
 <img src="https://i.pinimg.com/1200x/90/e4/ac/90e4ac3daefce1db5ccb60504cc66976.jpg" alt="banner" />
 
-<h1><samp>href</samp></h1>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&height=46&lines=Fullstack+and+Web3+developer;I+ship+the+app%2C+the+API+and+the+contract;TypeScript+%2F+React+%2F+Node+%2F+Postgres;Solidity+%2F+viem+%2F+wagmi+%2F+Foundry" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=620&height=46&lines=Fullstack+and+Web3+developer;I+ship+the+app%2C+the+API+and+the+contract;TypeScript+%2F+React+%2F+Node+%2F+Postgres;Solidity+%2F+viem+%2F+wagmi+%2F+Foundry" alt="Fullstack and Web3 developer" />
-</picture>
-
-</div>
+---
 
 <div align="horizontal">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" />
