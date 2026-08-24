@@ -19,6 +19,7 @@
 - Fullstack apps end to end: React on top, Node API in the middle, Postgres and Docker under it
 - Small tools that make the boring part of a project disappear
 - Faster app building with using AI
+- Infinity learning
 
 ### `<a href="#stack">`
 
